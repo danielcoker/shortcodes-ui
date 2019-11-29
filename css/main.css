@@ -31,6 +31,7 @@ form input[type="submit"] {
 }
 
 .result-section {
+    margin: 0 auto;
     margin-top: 70px;
     width: 70%;
     background-color: #ffffff;
